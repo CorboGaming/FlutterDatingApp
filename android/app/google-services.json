@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442719920212",
+    "project_id": "mahramoptimisev01",
+    "storage_bucket": "mahramoptimisev01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442719920212:android:bf4b586c405b575d94cdc1",
+        "android_client_info": {
+          "package_name": "com.example.mahram_optimise_v01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442719920212-84l4qgl89su83gkb7gth0p1hgmrerdmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahram_optimise_v01",
+            "certificate_hash": "d13ebf6c446eb08b69e0c7f841e4028becae7658"
+          }
+        },
+        {
+          "client_id": "442719920212-a1qgf556t1g8tmgsdjvj0pasc0tjlndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84b6REvPG8cPf5xc6WYbhg1Yjx6N79Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442719920212-a1qgf556t1g8tmgsdjvj0pasc0tjlndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
